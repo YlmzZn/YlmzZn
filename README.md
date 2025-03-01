@@ -47,7 +47,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/YlmzZn/YlmzZn/output/snake.svg" alt="Snake animation" />
-
-###
