@@ -1,24 +1,53 @@
-<h1>ProtonAc</h1>
-<p>4rd-year Electrical-Electronics Engineering student</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<h1 align="center">ProtonAc</h1>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YlmzZn&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YlmzZn&theme=chartreuse-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YlmzZn&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YlmzZn&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=YlmzZn&icon=5&color=3)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/y%C4%B1lmaz-zini-a909842a8/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/8u97ZtkYnP" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YlmzZn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=chartreuse-dark&hide_border=true&order=2" height="310" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YlmzZn&radius=17&theme=chartreuse-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=YlmzZn&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=true&border_radius=17&order=3" height="172" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=YlmzZn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true&order=1" height="172" alt="stats graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/YlmzZn/YlmzZn/output/snake.svg" alt="Snake animation" />
+
+###
