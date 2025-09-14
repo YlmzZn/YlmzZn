@@ -44,7 +44,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YlmzZn&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=true&border_radius=17&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YlmzZn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=chartreuse-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
